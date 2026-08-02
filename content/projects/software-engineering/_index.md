@@ -1,4 +1,5 @@
 ---
+title: "Software Engineering"
 description: "Projects exploring engine architecture, graphics programming, networking, algorithms, and technical software development."
 
 showDate: false
@@ -7,9 +8,7 @@ showWordCount: false
 showAuthor: false
 showTitle: true
 showDescription: true
----
-
-<h1 class="section-title">Software Engineering</h1>
+showBreadcrumbs: true
 
 ---
 

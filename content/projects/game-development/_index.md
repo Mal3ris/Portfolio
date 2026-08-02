@@ -1,8 +1,9 @@
 ---
+title: Game Development
 description: "Gameplay programming projects focusing on software engineering, gameplay systems, and graphics."
----
-<h1 class="section-title">Game Development</h1>
 
+showTitle: false
+showBreadcrumbs: true
 ---
 
 # Building Complete Gameplay Experiences

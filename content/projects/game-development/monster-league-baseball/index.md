@@ -38,7 +38,7 @@ Working closely with artists, designers, and fellow programmers, I help translat
 
 | | |
 |---|---|
-| **Status** | <div class="status-badge active"> <span class="status-dot"></span> Active Development </div> |
+| **Status** | <div class="status-badge status-active"> <span class="status-dot"></span> Active Development </div> |
 | **Role** | Lead Designer & Gameplay Programmer |
 | **Team Size** | 8 Developers |
 | **Duration** | May 2025 - Present |
