@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://mal3ris.github.io/Portfolio/"
+baseURL = "https://studioslippers.org"
 defaultContentLanguage = "en"
 
 #stuff added
