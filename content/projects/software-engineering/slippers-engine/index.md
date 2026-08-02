@@ -1,9 +1,6 @@
 ---
 title: "Slippers Engine"
 
-categories:
-- Software Engineering
-
 tags:
 - C++
 - OpenAL
@@ -26,18 +23,6 @@ featured: true
 
 ---
 
-| | |
-|---|---|
-| **Status** | <div class="status-badge status-completed"> <span class="status-dot"></span> Completed </div> |
-| **Team Size** | Solo |
-| **Duration** | Jan 2025 - Jun 2025 |
-| **Language** | C++ |
-| **Version Control** | Perforce |
-| **Platform** | Windows |
-| **Documentation** | [Doxygen](https://mal3ris.github.io/SlippersEngineDocs/index.html) |
-
----
-
 # Overview
 
 The **Slippers Engine** is a custom C++ game engine developed to explore engine architecture, gameplay frameworks, and reusable software design. Built on top of a provided graphics framework, the project focused on implementing the systems required to support game development, including object management, scene organization, collision detection, audio, and debugging tools.
@@ -47,6 +32,20 @@ Development began with establishing the engine's core architecture. A modular ga
 The engine was later expanded with more advanced functionality. The collision system evolved from simple bounding sphere tests to support both axis-aligned and oriented bounding boxes, while terrain support was added to enable larger and more dynamic environments. As part of the project, I also designed and implemented a complete audio framework using **OpenAL**, adding support for 3D positional audio, environmental reverb, and sound occlusion to create a more immersive gameplay experience.
 
 Throughout development, I created a variety of debugging tools to improve development efficiency. These included an on-screen logging system with configurable panels, a free camera, collision visualization tools, and time manipulation features for debugging gameplay behavior. To validate the engine and demonstrate its capabilities, a fully playable tank game was developed alongside the engine, serving as both a testbed for new systems and a practical demonstration of the engine's functionality.
+
+---
+
+<h1 class="section-title">Quick Facts</h1>
+
+| | |
+|---|---|
+| **Status** | <div class="status-badge status-completed"> <span class="status-dot"></span> Completed </div> |
+| **Team Size** | Solo |
+| **Duration** | Jan 2025 - Jun 2025 |
+| **Language** | C++ |
+| **Version Control** | Perforce |
+| **Platform** | Windows |
+| **Documentation** | [Doxygen](https://mal3ris.github.io/SlippersEngineDocs/index.html) |
 
 ---
 
@@ -110,7 +109,7 @@ By separating gameplay behaviors into independent services, the Game Object Fram
 
 <div class="portfolio-image" style="--img-width:600px;">
     <img src="gameobject-diagram.png" alt="">
-    <p><em>Inheritance hierarchy of the Game Object Framework, demonstrating how gameplay objects compose reusable engine services through modular base classes.</em></p>
+    <p><em>*Inheritance hierarchy of the Game Object Framework, demonstrating how gameplay objects compose reusable engine services through modular base classes.*</em></p>
 </div>
 
 ---

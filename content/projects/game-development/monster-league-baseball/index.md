@@ -113,7 +113,7 @@ This philosophy extends beyond gameplay. Players can customize their team's colo
 
 <div class="portfolio-image" style="--img-width:600px;">
     <img src="lineup.png" alt="">
-    <p><em>Lineup screen where players draft their team before beginning a run.</em></p>
+    <p><em>*Lineup screen where players draft their team before beginning a run.*</em></p>
 </div>
 
 ---
@@ -160,7 +160,7 @@ This architecture allowed the batting system to remain easy to extend throughout
 
 <div class="portfolio-image" style="--img-width:600px;">
     <img src="batting.png" alt="">
-    <p><em>Players combine timing, directional aiming, and power control to influence the trajectory of every hit.</em></p>
+    <p><em>*Players combine timing, directional aiming, and power control to influence the trajectory of every hit.*</em></p>
 </div>
 
 ---
@@ -185,7 +185,7 @@ A planned enhancement is a stamina system that limits how long runners can remai
 
 <div class="portfolio-image" style="--img-width:600px;">
     <img src="running.png" alt="">
-    <p><em>Players can direct individual baserunners at any time while the running system automatically enforces baseball rules such as force plays and base occupancy.</em></p>
+    <p><em>*Players can direct individual baserunners at any time while the running system automatically enforces baseball rules such as force plays and base occupancy.*</em></p>
 </div>
 
 ---
@@ -212,7 +212,7 @@ This architecture keeps the upgrade framework modular, extensible, and easy to m
 
 <div class="portfolio-image" style="--img-width:600px;">
     <img src="upgrade.png" alt="">
-    <p><em>Between innings, players strengthen their team by selecting upgrades that provide permanent stat increases, gameplay modifications, or unique conditional abilities.</em></p>
+    <p><em>*Between innings, players strengthen their team by selecting upgrades that provide permanent stat increases, gameplay modifications, or unique conditional abilities.*</em></p>
 </div>
 
 ---
@@ -237,7 +237,7 @@ By separating statistic collection from award selection, the superlative system 
 
 <div class="portfolio-image" style="--img-width:600px;">
     <img src="winning.png" alt="">
-    <p><em>At the conclusion of each match, the Superlative System recognizes memorable player performances by generating personalized post-game awards based on tracked gameplay statistics.</em></p>
+    <p><em>*At the conclusion of each match, the Superlative System recognizes memorable player performances by generating personalized post-game awards based on tracked gameplay statistics.*</em></p>
 </div>
 
 ---
