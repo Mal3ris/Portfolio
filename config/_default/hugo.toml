@@ -7,8 +7,8 @@ baseURL = "https://mal3ris.github.io/Portfolio/"
 defaultContentLanguage = "en"
 
 #stuff added
-relativeURLs = true
-canonifyURLs = false
+#relativeURLs = true
+#canonifyURLs = false
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
