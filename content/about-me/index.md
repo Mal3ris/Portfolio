@@ -8,8 +8,6 @@ showAuthor: false
 showTableOfContents: false
 ---
 
-# About Me
-
 Hi! I'm Lucas Wall, a software engineer and gameplay programmer with a passion for building games from the ground up. I enjoy tackling technical challenges ranging from gameplay systems and engine architecture to graphics programming and networking, with a focus on writing clean, reusable, and maintainable code.
 
 Many of the projects featured throughout this portfolio reflect that interest. From developing a custom C++ game engine and DirectX 11 graphics framework to building multiplayer networking systems and creating **Monster League Baseball**, I enjoy exploring both the technical foundations that power games and the gameplay experiences they create.
