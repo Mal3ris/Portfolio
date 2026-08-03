@@ -38,11 +38,11 @@
 
 [[main]]
   name = "Resume"
-  pageRef = "projects"
+  pageRef = "resume"
   weight = 10
 [[main]]
   name = "Contact"
-  pageRef = "projects"
+  pageRef = "contact"
   weight = 25
 
 #[[main]]
