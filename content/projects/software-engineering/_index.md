@@ -12,6 +12,8 @@ showBreadcrumbs: true
 
 layout: section
 
+weight: 2
+
 ---
 
 # Building the Technology Behind Games

@@ -28,7 +28,7 @@
 [[main]]
   name = "Game Design"
   parent = "Projects"
-  pageRef = "posts"
+  pageRef = "projects/game-design"
   weight = 25
 
 [[main]]

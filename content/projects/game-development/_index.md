@@ -7,6 +7,8 @@ showBreadcrumbs: true
 
 layout: section
 
+weight: 1
+
 ---
 
 # Building Complete Gameplay Experiences
