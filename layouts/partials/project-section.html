@@ -1,0 +1,15 @@
+<article class="prose dark:prose-invert max-w-none">
+
+    <h1>{{ .Title }}</h1>
+
+    {{ .Content }}
+
+</article>
+
+<div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+
+    {{ range .RegularPages.ByWeight }}
+        {{ partial "article-link/card.html" . }}
+    {{ end }}
+
+</div>

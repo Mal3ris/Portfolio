@@ -4,6 +4,9 @@ description: "Gameplay programming projects focusing on software engineering, ga
 
 showTitle: false
 showBreadcrumbs: true
+
+layout: section
+
 ---
 
 # Building Complete Gameplay Experiences

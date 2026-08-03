@@ -10,6 +10,8 @@ showTitle: true
 showDescription: true
 showBreadcrumbs: true
 
+layout: section
+
 ---
 
 # Building the Technology Behind Games
